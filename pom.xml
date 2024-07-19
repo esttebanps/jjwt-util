@@ -60,7 +60,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/esttebanps/jwt-util-library</url>
+            <url>https://maven.pkg.github.com/esttebanps/jjwt-util</url>
         </repository>
     </distributionManagement>
 
